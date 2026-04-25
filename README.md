@@ -1,4 +1,4 @@
-# Personal Assistant Agent
+# TaskGenie:Personal Assistant Agent
 
 This project demonstrates an agentic AI notebook with function calling and tool execution using Gemini through LiteLLM.
 
